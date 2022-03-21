@@ -1,0 +1,1 @@
+/Users/bernardocosta/Documents/github/the-rust-programming-language/201-programming-a-guessing-game/guessing_game/target/debug/guessing_game: /Users/bernardocosta/Documents/github/the-rust-programming-language/201-programming-a-guessing-game/guessing_game/src/main.rs
