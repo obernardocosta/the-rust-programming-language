@@ -1,0 +1,1 @@
+/Users/bernardocosta/Documents/github/the-rust-programming-language/101-getting-started/hello_cargo/target/release/hello_cargo: /Users/bernardocosta/Documents/github/the-rust-programming-language/101-getting-started/hello_cargo/src/main.rs
