@@ -1,0 +1,1 @@
+/Users/bernardocosta/Documents/github/the-rust-programming-language/301-common-programming-concepts/variables-and-mutability/target/debug/variables-and-mutability: /Users/bernardocosta/Documents/github/the-rust-programming-language/301-common-programming-concepts/variables-and-mutability/src/main.rs
